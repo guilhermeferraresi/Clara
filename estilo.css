@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #FFE6C1;
+}
+#carrocel{
+    transition: opacity 0.5s ease-in-out;
+}
+
+.imagens{
+    width: 340px;
+}
+.imgcarrocel{
+    width:96%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+#h2{
+        margin-top: 17px;
+        text-align: center;
+    }
+    #dez{
+        margin-top: 5px;
+        text-align: center;
+    }
+    p{
+        width: 90%;
+        margin-top: 10px;
+        font-size: 16px;
+        margin-left: 5%;
+        padding-bottom: 13px;
+        text-align:justify
+    }
+.imagens{
+    width: 62%;
+    margin-left: 19%
+}
